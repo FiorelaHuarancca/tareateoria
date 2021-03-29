@@ -1,0 +1,27 @@
+.checkout{
+    margin: 0 auto;
+    width: 400px;
+}
+.checkout-header{
+    display: flex;
+}
+.title{ text-align: center; width: 100%;}
+.textCantidad{
+       text-align: center;
+       font-weight: 500;
+}
+.textCantidad{
+    text-align: center;
+    font-weight: 500;
+}
+.btnCheckout{
+    text-align: center;
+    background-color: black;
+    width: 100%;
+    color: white;
+    font-weight: 500;
+    display: block;
+    padding: 20px;
+    margin-top: 20px;
+    text-decoration: none;
+}
